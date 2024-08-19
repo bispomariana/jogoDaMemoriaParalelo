@@ -24,25 +24,13 @@ O projeto possui as seguintes funcionalidades:
 ### Pré-Requisitos
 Certifique-se de ter o [Python 3.x](https://www.python.org/downloads/) instalado em sua máquina.
 
-IDE de sua escolha. (Opcional)
+[Windows](https://www.microsoft.com/pt-br/software-download)
+
+IDE de sua escolha.
 
 ### Rodando o programa
 
 1. Clone ou faça o download deste repositório.
-
-#### No Terminal: 
-
-2. Navegue até o diretório do projeto:
-```
-> cd /caminho/para/o/diretório/do/projeto
-```
-3. Execute o arquivo Python:
-```
-> python nome_do_arquivo.py
-```
-
-#### Por uma IDE:
-
 2. Abra o projeto na sua IDE (ex: PyCharm, VSCode).
 3. Execute os arquivos na IDE.
 
@@ -58,6 +46,7 @@ Cada thread revela cartas em posições aleatórias do vetor de cartas. Quando u
 ## Tecnologias
 - [Python](https://www.python.org/)
 - [VSCode](https://code.visualstudio.com/)
+- [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10%20)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Todo feedback ou sugestão será considerado.
